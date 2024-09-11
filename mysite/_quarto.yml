@@ -1,6 +1,11 @@
 project:
   type: website
 
+publish:
+  gh-pages:
+    branch: gh-pages    # GitHub Pages 通常使用这个分支发布
+    orphan: true        # 使用孤立的 gh-pages 分支
+
 website:
   title: "Alix"
   navbar:
