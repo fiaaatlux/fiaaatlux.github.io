@@ -3,7 +3,7 @@ title: "FiatLux"
 author: "🔥 Alix Y. Z"
 date: "2024-09-11"
 abstract: |
-  ฅ⁽͑ ˚˚ ⁾̉ฅ \ Per aspera ad astra, et tu es qui me ducis luce tua 🌟
+  ฅ⁽͑ ˚˚ ⁾̉ฅ \ Per aspera ad astra, et tu lux mea es. 🌟
 ---
 
 **👋 Hi～ This is Alix. Welcome to my website !**
